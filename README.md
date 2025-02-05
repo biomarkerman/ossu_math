@@ -1,3 +1,8 @@
+# My motivation
+
+I decided to pass through the undergraduate math degree program at the Open Source Society University. This will be difficult, but I plan to build a solid background for my future career in intelligent computational biology and bioinformatics. I fork this repository from the original issue/math and will track my progress here while the structure remains so everyone can find details. Please follow the [Curriculum](#curriculum) for my accomplished courses.
+
+
 <div align="center">
 <img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 
