@@ -105,9 +105,9 @@ Most people's views of mathematics are destroyed in school by focusing on memori
 `Mathematical mindset`
 `Number Theory`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
+Courses | Duration | Effort | Prerequisites | Progress
+:-- | :--: | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none | in_progress ⏳
 [LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
 
 ### Calculus 
